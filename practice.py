@@ -36,7 +36,7 @@ def main():
             elif choice == "5":
                 print(f"Reverse ; {user_input[::-1]}")
             elif choice == "6":
-                print(f"Word Count: {len(user.input.split())}")
+                print(f"Word Count: {len(user_input.split())}")
             elif choice == "7":
                 break
             elif choice == "0":
