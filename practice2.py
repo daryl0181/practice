@@ -15,7 +15,7 @@ def main():
         print("5 divide")
         print("6 modulus")
         print("7 new input")
-        print("0 quit")
+        print("0 quit") 
 
         while True:
             choice = input("Enter your choice:  ")
